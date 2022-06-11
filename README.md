@@ -1,24 +1,28 @@
 # vue3-basic
 
-## Project setup
+## 개발환경
+* Vue3
+* typescript4
+* vue/cli5
+* vuex4
+* vue-router4
+* axios
+* typescript-eslint
+* eslint-plugin-vue
+* json-server
+* types/lodash
+<br/>
+<br/>
+
+## JSON Server
 ```
-npm install
+json-server --watch db.json
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 내용
+[Notion](https://www.notion.so/joresserwe/Vue-51e29fcaf2dd4de1a17551dcb32408d8)
+<br/>
+<br/>
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Reference
+[Youtube - Kossie Coder](https://www.youtube.com/c/kossiecoder)
